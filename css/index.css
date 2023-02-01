@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    text-align: center;
+    padding: 20px;
+    
+}
+#ifButton{
+    background-color: rgb(27, 215, 147);
+    font-size: 200%;
+    width: 80%;
+}
+
+#switchButton{
+    background-color: aqua;
+    font-size: 200%;
+    width: 80%;
+}
